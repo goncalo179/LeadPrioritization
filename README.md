@@ -18,8 +18,7 @@ By training classification models, this project predicts lead conversion likelih
 
 ## Requirements
 - Google Colab (Recommended) - Python 3.x pre-installed
-OR
-- Local Setup - Requires Python 3.x (Download from python.org)
+- OR Local Setup - Requires Python 3.x (Download from python.org)
 - Install required packages from "requirements.txt"
 
 **Note:** If you're using Google Colab, prefix commands with "!", e.g., "!git clone ...". On a local setup, use the commands without "!", e.g., "git clone ...".
