@@ -38,3 +38,10 @@ By training classification models, this project predicts lead conversion likelih
 ```
 
 3. Open and run the Jupyter Notebook.
+
+## License
+
+This project is intended for educational and portfolio purposes only.  
+Parts of the codebase are adapted from coursework and training materials.  
+Not for commercial use.  
+Licensed under the [MIT License](LICENSE).
