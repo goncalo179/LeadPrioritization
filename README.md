@@ -5,6 +5,8 @@ Lead prioritization using decision trees and random forests based on customer be
 This project analyzes potential customers' behaviour to prioritize high-value leads using Decision Trees and Random Forests.
 By training classification models, this project predicts lead conversion likelihood to help focus on the most promising prospects.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/goncalo179/LeadPrioritization/blob/main/notebooks/(Gonçalo)ExtraaLearn_Project.ipynb)
+
 ## Project Structure
 - **data/**: Contains the raw data files ("ExtraaLearn.csv").
 - **notebooks/**: Jupyter notebooks with data cleaning, visualization, and analysis ("ExtraaLearn_Project.ipynb").
